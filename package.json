@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/jacse/react-native-app-intro-slider/issues"
   },
-  "homepage": "https://github.com/jacse/react-native-app-intro-slider"
+  "homepage": "https://github.com/jacse/react-native-app-intro-slider",
+  "scripts": {
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "release-it": "^12.3.6"
+  }
 }
